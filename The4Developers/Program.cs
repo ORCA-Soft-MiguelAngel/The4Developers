@@ -6,7 +6,7 @@ namespace The4Developers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Hola Amadis");
         }
     }
 }
